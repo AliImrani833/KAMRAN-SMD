@@ -75,7 +75,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   <table>
     <tr>
       <td><a href="https://dua-vps.onrender.com" target="_blank"><img src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/KAMRAN-SMD/KAMRAN-SMD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
     </tr>
     <tr>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
